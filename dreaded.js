@@ -1750,13 +1750,13 @@ case "ping": case "speed": {
  break; 
   
  case "runtime": { 
-                 m.reply (`𝐙𝐞𝐮𝐬 𝐀𝐈 𝙷𝚊𝚜 𝙱𝚎𝚎𝚗 𝙰𝚌𝚝𝚒𝚟𝚎 𝙵𝚘𝚛 ${runtime(process.uptime())}`) 
+                 m.reply (`𝐙𝐄𝐔𝐒 𝐀𝐈 ℎ𝑎𝑠 𝑏𝑒𝑒𝑛 𝑎𝑐𝑡𝑖𝑣𝑒 𝑓𝑜𝑟 ${runtime(process.uptime())}`) 
  } 
  break;
 
 case "alive":
 
-const audiovn = "./alive.mp3";
+const audiovn = "./Zeus.mp3";
     const dooc = {
         audio: {
           url: audiovn
