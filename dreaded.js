@@ -1769,7 +1769,7 @@ const audiovn = "./Zeus.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝒆𝒍𝒍𝒐 𝒉𝐮𝐦𝐚𝐧,𝐙𝐄𝐔𝐒 𝐁𝐎𝐓 𝐈𝐒 𝐀𝐂𝐓𝐈𝐕𝐄",
+          title: "𝐇𝐄𝐋𝐋𝐎 𝐇𝐔𝐌𝐀𝐍🤏😎,𝐙𝐄𝐔𝐒 𝐁𝐎𝐓 𝐈𝐒 𝐀𝐂𝐓𝐈𝐕𝐄 & 𝐎𝐍 𝐈𝐓𝐒 𝐍𝐎𝐑𝐌𝐀𝐋 𝐖𝐎𝐑𝐊.𝑁𝑖𝑐𝑒 𝑡𝑖𝑚𝑒𝑠 𝑎ℎ𝑒𝑎𝑑..😁..",
           body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
           thumbnailUrl: "https://telegra.ph/file/cc18bb720f64b4ea432cb.jpg",
           sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
