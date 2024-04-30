@@ -81,9 +81,9 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     };
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
-    const author = process.env.STICKER_AUTHOR ||'𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐈';
-    const packname = process.env.STICKER_PACKNAME || '𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪';
-const dev = process.env.DEV || '254742491666'
+    const author = process.env.STICKER_AUTHOR ||'𝐙𝐄𝐔𝐒-𝐀𝐈';
+    const packname = process.env.STICKER_PACKNAME || '𝐙𝐄𝐔𝐒';
+const dev = process.env.DEV || '254741188211'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
  const DevDreaded = dev.split(",");
@@ -102,7 +102,7 @@ const groupName = m.isGroup && groupMetadata ? await groupMetadata.subject : "";
 const admin = process.env.ADMIN_MSG || '𝐇𝐮𝐡!\n𝐀𝐝𝐦𝐢𝐦𝐬 𝐨𝐧𝐥𝐲, 𝐃𝐮𝐦𝐦𝐲.';
     const group = process.env.GROUP_ONLY_MSG || '𝐆𝐫𝐨𝐮𝐩 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐍𝐢𝐠𝐠𝐚.';
     const botAdmin = process.env.BOT_ADMIN_MSG || '𝐈𝐦 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐌𝐅'
-    const NotOwner = process.env.NOT_OWNER_MSG || '𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐨𝐧𝐥𝐲 ☬';
+    const NotOwner = process.env.NOT_OWNER_MSG || '𝐙𝐄𝐔𝐒 𝐨𝐧𝐥𝐲 ☬';
 const wapresence = process.env.WA_PRESENCE || 'recording';
 const antilink = process.env.ANTILINK || 'TRUE';
 const antilinkall = process.env.ANTILINK_ALL || 'TRUE';
@@ -384,7 +384,7 @@ case "help":
 		      await loading ()
 
 let cap = `┏━━━━━━━━━━━━━━━━━━┓
-┃     ▇ ◆  𝐙𝐄𝐔𝐒 𝐕11  ◆ █
+┃     ▇ ☪️  𝐙𝐄𝐔𝐒 𝐕11  ☪️ █
 ┃🗿┏━━━━━━━━━━━━━━━┛
 ┃🗿┃ 𝗢𝘄𝗻𝗲𝗿 : ⏭️𝐌.𝐋𝐔𝐂𝐀𝐒.𝐌⏮️
 ┃🗿┃ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
@@ -544,7 +544,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `𝐙𝐄𝐔𝐒-𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐁𝐥𝐚𝐜𝐤_𝐌𝐚𝐦𝐛𝐚_𝐀𝐈.jpg'),
+                                thumbnail: fs.readFileSync('./𝐙𝐞𝐮𝐬_𝐀𝐢.jpg'),
                                 sourceUrl: 'https://wa.me/254741188211?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
